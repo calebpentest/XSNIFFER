@@ -1,6 +1,7 @@
 # XSNIFFER is an Advanced Network Sniffer
 
-![pro](https://github.com/user-attachments/assets/6830b5dc-dc3a-48d4-8085-109faa4f16ea)
+![pro](https://github.com/user-attachments/assets/b37aa225-6a86-489e-bc80-7206a5584f49)
+
 
 ## Description
 XSNIFFER is an advanced Python-based network sniffer that captures and analyzes network traffic in real-time. It provides detailed insights into HTTP requests, DNS queries, API calls, and other network protocols. The tool includes a built-in REST API for monitoring statistics and supports packet capture (PCAP) logging.
